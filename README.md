@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Mary Anene** (a.k.a. @Oluchi5)  
+- 👋 Hi, I’m **Mary Anene** (a.k.a. @Oluchi5)  
 
 - 💡 I’m a **Data Analyst** & **AI Engineer** passionate about **data-driven innovation** and **intelligent automation**.  
 
