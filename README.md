@@ -1,49 +1,18 @@
-# 👋 Hi, I’m **Mary Anene** A.K.A @Oluchi5  
+# 👋 Hi, I’m **Mary Anene** (a.k.a. @Oluchi5)  
 
-Welcome to my GitHub profile! 🚀  
+- I’m a **Data Analyst** and **AI Engineer** passionate about **data-driven innovation** and **intelligent solutions**.  
 
-I’m a **Data Analyst and AI Engineer** passionate about turning data into intelligent solutions that drive growth and innovation.  
-I use **data, machine learning, and automation** to solve real-world business challenges — from insightful dashboards to intelligent AI systems.
+- As a **Data Analyst**, I use data to uncover insights that drive smart business decisions.  
+- As an **AI Engineer**, I build automation systems and AI models that solve complex problems.  
 
-#### 👀 What I Do
-I use data and AI to create solutions for businesses and organizations by:
-- Collecting, analyzing, and visualizing data for informed decision-making  
-- Building AI models and LLM-powered systems that automate complex tasks  
-- Exploring socio-technological innovations that make data work smarter  
+- I create **dashboards, machine learning models, and automation workflows** that help businesses save time, money, and resources.  
 
-#### 🧠 My Focus Areas
-- **📊 Data Analytics:** Python, SQL, Excel, Power BI, Tableau, Looker  
-- **🤖 AI Engineering:** Machine Learning, Deep Learning, LLMs (Llama, GPT), Neural Networks, RAG  
-- **🧩 Tools & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, LangChain  
+- I’m a **mentored professional** who also mentors others exploring data and AI.  
+In my free time, I explore how technology and AI can shape **social innovation** and **digital transformation**.  
 
-#### 🧰 Featured Portfolios
-| Area | Description | Link |
-|------|--------------|------|
-| **Data Analytics Portfolio** | Dashboards, reports, and business intelligence projects using Power BI, Tableau, and SQL. | [View Portfolio →](#) |
-| **AI Engineering Portfolio** | Projects on LLMs, neural networks, OCR, and intelligent automation. | [View Portfolio →](#) |
+- ⭐ *“Where data meets intelligence — insights become impact.”*  
 
-> 💡 These portfolios show my growth from analyzing data → to building intelligent systems that act on it.
-
----
-
-#### 🤝 Let’s Collaborate!
-I’m open to working on:
-- **Python**, **SQL**, or **Excel-based** analytics projects  
-- **Machine learning** and **data visualization** challenges using Power BI, Looker, or Tableau  
-- **AI automation** and **RAG** (Retrieval-Augmented Generation) workflows  
-
--👩‍💻 Beyond Work
-In my free time, I explore how technology and AI can shape **social innovation**, digital transformation, and everyday life improvements.  
-
-#### 📫 Let’s Connect!
-- 💼 **LinkedIn:** [www.linkedin.com/in/mary-anene-theanalyst](https://www.linkedin.com/in/mary-anene-theanalyst)  
-- 🧠 **GitHub Projects:** Explore my repositories below and let’s turn data into knowledge together!  
-
----
-
-⭐ *“Where data meets intelligence — insights become impact.”*  
-
-- 📫 You can reach out to me via LinkedIn
+- 📫 So, whether you’d like to **collaborate, learn, or innovate** You can reach out to me via LinkedIn
    (www.linkedin.com/in/mary-anene-theanalyst)
 
 <!---
