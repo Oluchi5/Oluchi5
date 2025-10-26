@@ -6,12 +6,9 @@
 - 🤖 As an AI Engineer, I build automation systems and AI models that solve real-world problems.  
 
 - 📈 I design **dashboards, AI models, and workflows** that help teams save time, money, and resources.  
-- 🌱 I’m a **mentored professional** who now mentors others exploring data and AI.  
-- 💭 In my free time, I explore how **AI and technology drive social innovation & digital transformation**.  
+- 🌱  In my free time, I mentor others, and explore how **AI and technology drive social innovation & digital transformation**.  
 
-- 💼 If you would like to **collaborate, learn, or innovate** Let’s connect  —  
-- 🚀 collaborate, learn, or innovate together!
-
+- 💼 If you would like to **collaborate, learn, or innovate** Let’s connect - 🚀
 
 - 📫 So,  You can reach out to me via LinkedIn
    (www.linkedin.com/in/mary-anene-theanalyst)
