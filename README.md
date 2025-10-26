@@ -1,18 +1,19 @@
 # 👋 Hi, I’m **Mary Anene** (a.k.a. @Oluchi5)  
 
-- I’m a **Data Analyst** and **AI Engineer** passionate about **data-driven innovation** and **intelligent solutions**.  
+- 💡 I’m a **Data Analyst** & **AI Engineer** passionate about **data-driven innovation** and **intelligent automation**.  
 
-- As a **Data Analyst**, I use data to uncover insights that drive smart business decisions.  
-- As an **AI Engineer**, I build automation systems and AI models that solve complex problems.  
+- 📊 As a Data Analyst, I turn raw data into insights that power smart business decisions.  
+- 🤖 As an AI Engineer, I build automation systems and AI models that solve real-world problems.  
 
-- I create **dashboards, machine learning models, and automation workflows** that help businesses save time, money, and resources.  
+- 📈 I design **dashboards, AI models, and workflows** that help teams save time, money, and resources.  
+- 🌱 I’m a **mentored professional** who now mentors others exploring data and AI.  
+- 💭 In my free time, I explore how **AI and technology drive social innovation & digital transformation**.  
 
-- I’m a **mentored professional** who also mentors others exploring data and AI.  
-In my free time, I explore how technology and AI can shape **social innovation** and **digital transformation**.  
+- 💼 If you would like to **collaborate, learn, or innovate** Let’s connect  —  
+- 🚀 collaborate, learn, or innovate together!
 
-- ⭐ *“Where data meets intelligence — insights become impact.”*  
 
-- 📫 So, whether you’d like to **collaborate, learn, or innovate** You can reach out to me via LinkedIn
+- 📫 So,  You can reach out to me via LinkedIn
    (www.linkedin.com/in/mary-anene-theanalyst)
 
 <!---
