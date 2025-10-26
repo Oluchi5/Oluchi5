@@ -10,7 +10,7 @@
 
 - 💼 If you would like to **collaborate, learn, or innovate** Let’s connect - 🚀
 
-- 📫 So,  You can reach out to me via LinkedIn
+- 📫 You can reach out to me via LinkedIn
    (www.linkedin.com/in/mary-anene-theanalyst)
 
 <!---
